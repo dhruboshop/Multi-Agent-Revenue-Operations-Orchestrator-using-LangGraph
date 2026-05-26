@@ -2,7 +2,7 @@
 
 **A complete, production-grade AI system that automatically watches the market, analyses your revenue data, and sends you a professional weekly intelligence briefing on WhatsApp + Email — all powered by four AI agents working together.**
 
-This is a real portfolio project built for senior AI engineering interviews (40 LPA+ Forward Deployed / Applied AI Engineer roles). It uses LangGraph to orchestrate real multi-agent workflows with conditional logic, observability, and production delivery.
+It uses LangGraph to orchestrate real multi-agent workflows with conditional logic, observability, and production delivery.
 
 ---
 
