@@ -329,14 +329,10 @@ multi-agent-revops-orchestrator/
    - The email in your inbox
    - The `/status/latest` JSON
 
-2. Push the project to your GitHub (see the separate "GitHub Push Guide" if you have it).
-
-3. Add a 2–3 minute Loom video walking through one full run. This makes the project 10x more powerful for interviews.
-
 ---
 
 ## License
 
-MIT License – feel free to use this project in your portfolio and interviews.
+MIT License – feel free to use this project.
 
 ---
